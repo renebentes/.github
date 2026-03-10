@@ -8,7 +8,7 @@
 
 ## Funcionalidades
 
-- [ ]
+- [Auto Assinar](.github/workflows/assign-me.yml): usado para assinar meu usuário nas PRs
 
 ## Autor
 
