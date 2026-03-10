@@ -9,6 +9,7 @@
 ## Funcionalidades
 
 - [Auto Assinar](.github/workflows/assign-me.yml): usado para assinar meu usuário nas PRs
+- [Auto Aprovar PRs](.github/workflows/dependabot-autoapprove.yml): usado para aprovar PRs do [dependabot](https://github.com/dependabot)
 
 ## Autor
 
