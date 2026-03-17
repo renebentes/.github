@@ -1,6 +1,7 @@
 name: "🙋‍♂️ Assign me"
 
 on:
+  workflow_call:
   pull_request:
     types: [opened, synchronize, reopened]
 
