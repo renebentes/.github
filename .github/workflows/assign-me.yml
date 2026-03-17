@@ -12,6 +12,9 @@ on:
 jobs:
   set_assignee:
     runs-on: ubuntu-latest
+    permissions: 
+      issues: write
+      pull-requests: write
     steps:
       - uses: actions/github-script@v8
         if: github.actor != 'dependabot[bot]'
